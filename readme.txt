@@ -3,6 +3,6 @@ Character's Number   Character
 002                  Ryujin
 003                  Yuna
 004                  Chaeryeong
-005
-006
-007
+005                  Lia
+006                  Ayane
+007                  Cocoro
