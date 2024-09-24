@@ -1,17 +1,17 @@
-Character's Number   Character
-001                  Yeji
-002                  Ryujin
-003                  Yuna
-004                  Chaeryeong
-005                  Lia
-006                  Ayane
-007                  Cocoro
-008                  Keiko
-009                  Kokona
-010                  Tsuzumi
-011                  Suzu
-012                  Shizuku
-013                  Ran
-014                  Momona
-015                  Miu
-016                  Rinon
+Character's Number...Character
+001..................Yeji
+002..................Ryujin
+003..................Yuna
+004..................Chaeryeong
+005..................Lia
+006..................Ayane
+007..................Cocoro
+008..................Keiko
+009..................Kokona
+010..................Tsuzumi
+011..................Suzu
+012..................Shizuku
+013..................Ran
+014..................Momona
+015..................Miu
+016..................Rinon
