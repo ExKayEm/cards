@@ -15,4 +15,4 @@ Character's Number...Character
 014..................Momona
 015..................Miu
 016..................Rinon
-Photos Together:.....
+Cards Together:......48
