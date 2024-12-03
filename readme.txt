@@ -22,4 +22,6 @@ Character's Number...Character
 021..................Shizuku
 022..................Suzu
 023..................Tsuzumi
+024..................jiGook
+025..................Prin
 Cards Together:......XX
